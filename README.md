@@ -26,5 +26,3 @@ It connects to the **OpenAI API** to generate smart, human-like responses throug
 | Routing | Expo Router |
 | UI Library | React Native Paper / Custom Styles |
 | State Management | React Hooks / Context API |
-
-
